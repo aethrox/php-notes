@@ -8,7 +8,7 @@ Field: Veritabanının en alt birimi olup içinde ikilik formatta bilgi saklanı
 
 ### MYSQL Architecture
 Her veritabanı bir dizin, her tabloda bir dosyadır.
-![alt text](image.png)
+![alt text](images/image.png)
 
 ### Field Properties
 Primary: Alanımızın ana anahtarı olarak belirlenmesini sağlar.
@@ -18,21 +18,21 @@ Auto_increment: Eklenen her yeni satıra otomatik olarak bir sıra numarası ver
 
 ### PHPMyAdmin 
 Tabloya veri girmek için:
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 ### MySQL Field Types
 İşte sana mükemmel bir özet dostum 🙂🙌
