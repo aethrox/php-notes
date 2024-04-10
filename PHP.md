@@ -1,4 +1,4 @@
-### What's PHP ?
+### What's PHP?
 Betik bir programlama dilidir.
 Web tabanlı yazılım geliştirme yanı güçlüdür ve genellikle bu amaçla kullanılır.
 
