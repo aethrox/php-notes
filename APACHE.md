@@ -1,4 +1,4 @@
-### What's Apache ?
+### What's Apache?
 1995 Nisan ayında ilk sürümü 0.6.2 çıktı. 1995'in Şubat ayında en yaygın Web sunucu yazılımı NCSA'nın httpd'sidir.
 
 ```
