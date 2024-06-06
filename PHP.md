@@ -27,25 +27,25 @@ Kaynak kodu açık ve ücretsizdir. Server side çalışır. HTML ile birlikte �
 "echo, print, printf" commands print text on the screen.
 
 ### Comments blocks:
-> ```php
->   <?php
->       // This is the comment line.
->       echo("PHP Hello World!");
->       /*
->       * Test line 1
->       * Test line 2
->       */
->       echo "PHP Hello World!";
->   ?>
-> ```
+```php
+   <?php
+       // This is the comment line.
+       echo("PHP Hello World!");
+       /*
+       * Test line 1
+       * Test line 2
+       */
+       echo "PHP Hello World!";
+   ?>
+ ```
 
 ### Escape characters:
-> ```php
->   <?php
->    echo (“\”PHP\” dünyası merhaba”); // çıktısı “PHP” dünyası merhaba
->    // \n New line, \t Tab, \r Return
->   ?>
->```
+ ```php
+   <?php
+    echo (“\”PHP\” dünyası merhaba”); // çıktısı “PHP” dünyası merhaba
+    // \n New line, \t Tab, \r Return
+   ?>
+```
 
 ### Variables types
 ```php
