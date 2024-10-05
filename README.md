@@ -1,4 +1,4 @@
-# University PHP Coding Lecture Notes
+# University PHP Programming Lecture Notes
 
 ### Indexes:
 - [PHP](PHP.md)
